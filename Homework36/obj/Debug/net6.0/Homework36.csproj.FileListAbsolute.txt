@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Обучение\Seminar5\Homework36\obj\Debug\net6.0\Homework36.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Обучение\Seminar5\Homework36\obj\Debug\net6.0\Homework36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Обучение\Seminar5\Homework36\obj\Debug\net6.0\Homework36.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Обучение\Seminar5\Homework36\obj\Debug\net6.0\Homework36.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Обучение\Seminar5\Homework36\obj\Debug\net6.0\Homework36.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Обучение\Seminar5\Homework36\bin\Debug\net6.0\Homework36.exe
+C:\Users\Asus\Desktop\Обучение\Seminar5\Homework36\bin\Debug\net6.0\Homework36.deps.json
+C:\Users\Asus\Desktop\Обучение\Seminar5\Homework36\bin\Debug\net6.0\Homework36.runtimeconfig.json
+C:\Users\Asus\Desktop\Обучение\Seminar5\Homework36\bin\Debug\net6.0\Homework36.dll
+C:\Users\Asus\Desktop\Обучение\Seminar5\Homework36\bin\Debug\net6.0\Homework36.pdb
+C:\Users\Asus\Desktop\Обучение\Seminar5\Homework36\obj\Debug\net6.0\Homework36.dll
+C:\Users\Asus\Desktop\Обучение\Seminar5\Homework36\obj\Debug\net6.0\refint\Homework36.dll
+C:\Users\Asus\Desktop\Обучение\Seminar5\Homework36\obj\Debug\net6.0\Homework36.pdb
+C:\Users\Asus\Desktop\Обучение\Seminar5\Homework36\obj\Debug\net6.0\Homework36.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Обучение\Seminar5\Homework36\obj\Debug\net6.0\ref\Homework36.dll
